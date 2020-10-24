@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    font-family: 'Guardian Text Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+}
+.nav-set{
+    overflow-y: hidden;
+}
+.nav--bg{
+    background-color: #2b2d32;
+}
+
+.left--content h4{
+  opacity: 0.6;
+    margin-left: 25px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Guardian Text Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.left--content h4:hover{
+    opacity: 1.0;
+    cursor: pointer;
+}
+.fontcolor{
+    color: #ababad;
+}
+.footer-detail{
+    font-size: 12px;
+    color: #ababad;;
+}
+.footer-detail:hover{
+    color: black;
+}
+.svgicon{
+    margin-right: 25px;
+    fill: #ababad;
+    color:#ababad ;
+}
+.popular{
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Guardian Text Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.section-2{
+    background-color: #2b2d32;
+    width: 100%;
+    
+}
+.input-hello{
+    padding: 8px 15px;
+    width: 250px;
+}
+.inputvalue{
+    padding: 15px 
+}
+.input-setting{
+    background-color: #414347; /* Green */
+    border: 1px solid white;
+    color: white;
+    padding: 8px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.link-form{
+    text-decoration: underline;
+    color:#744389;
+    padding-right: 10px;
+    border-right: 1px solid;
+    margin-left: 10px;
+}
+.special{
+    text-decoration: underline;
+    color:#744389;
+    border-left: none;
+    margin-left: 10px;
+}
+.subheading{
+    font-size: 16px;
+    font-weight: 500;
+    color: #56585c;
+    font-family: 'Guardian Egyp',serif;
+}
+.center-detail{
+    border-right:1px solid #dedede;
+}
+.subscribe{
+    background-color: #744389; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.section-2-para{
+    font-size: 16px;
+    font-weight: 800;
+  
+    font-family: 'Guardian Egyp',serif;
+}
+.login{
+    position: relative;
+    top: 9px;
+    right: 27px;
+    color: #ababad;
+}
+.login:hover{
+    color: black;
+    cursor: pointer;;
+}
+.upperlayout{
+    display: flex;
+   
+}
+.left--content{
+    margin-left: 34px;
+}
+.bar{
+    width: 35px;
+    height: 4px;
+    background-color:#9a58b5;
+}
+.center-heading{
+    font-family: 'Guardian Egyp',serif;
+    font-weight: 400;
+    font-size: 40px;
+}
+.center-subheading{
+    font-family: 'Guardian Text Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 25px;
+   color: #56585c;
+}
+.svgicon:hover{
+    fill: white;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.back--dark{
+    border-top: 1px solid #414347;
+    height: 200px;
+    width: 100%;
+    background-color: #2b2d32;
+    position: absolute;
+    z-index: -1;
+    
+}
